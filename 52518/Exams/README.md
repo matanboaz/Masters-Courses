@@ -1,1 +1,1 @@
-This file contains exams from previous years (some with a solution).
+This folder contains exams from previous years (some with a solution).
