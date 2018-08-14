@@ -1,4 +1,4 @@
-This file contains general information about this course.
+This file contains general information about this course.  
 Contains:
 	* Course syllabus
 	* Lecture notes from 2017
